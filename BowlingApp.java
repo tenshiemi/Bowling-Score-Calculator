@@ -19,7 +19,7 @@ public class BowlingApp
         String selection = "";
         String name;
         
-        System.out.println("What is your name?");
+        System.out.println("Please enter your name:");
         name = new BufferedReader(new InputStreamReader(System.in)).readLine();
         playerList.add(new Player(name));
         
