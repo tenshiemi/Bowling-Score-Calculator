@@ -1,3 +1,7 @@
+/*
+* This class prints out the scoreboard with all the players' names and scores
+*/
+
 package emily.bowlingApp;
 
 import java.util.List;
